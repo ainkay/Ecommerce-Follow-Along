@@ -4,10 +4,13 @@ require('dotenv').config({
 const express=  require ('express')
 
 const app= express()
+const userRouter = require
 
 app.get("/",(req,res)=>{
     return res.send('Welcome to backend')
 })
+
+
 module.exports= app
 
 
