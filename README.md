@@ -4,3 +4,5 @@ Milestone 1:
 2. Product page: Displays all the products
 3. Orders page: Shwos orders for each user
 4. Payment gateway
+
+Milestone 2:
