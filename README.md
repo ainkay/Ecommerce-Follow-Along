@@ -19,4 +19,12 @@
 2. Set up the node.js server and handle api requests
 3. Connect your the whole thing to MongoDB
 4.Connect the database and server
-5. Create a error handler 
+5. Create a error handler
+
+## Milestone 4:
+
+First up, we’ll create a User Model, which is basically the blueprint for how all the user data will be structured and saved in the database. It’s like setting up a profile template for every user. Then, we’ll move on to building a User Controller. This is super important because it’s what handles all the actions related to users, like adding a new user, updating their info, or retrieving details when needed.
+
+Next, we’ll set up Multer, which is a tool that lets our app accept and store files uploaded by users, like profile pictures or any other images. We’ll configure it so it works smoothly with the app and stores the files in the right places.
+
+Finally, don’t forget to update the README file! This step might seem boring, but it’s crucial to document everything we’ve done so far. It helps us (and anyone else working on the project) stay organized and know exactly what’s going on.
